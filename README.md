@@ -111,17 +111,17 @@ indicar rutas de los directorios a ignorar y con * se buscan todas las coinciden
 + El blog de rubensa. (10 de junio del 2016). *Maven Lifecycle*. Recuperado de:
 <https://rubensa.wordpress.com/2016/06/10/maven-lifecycle/#:~:text=Existen%20tres%20ciclos%20de%20vida,de%20documentación%20de%20tu%20proyecto.>
 
-IONOS. (9 de octubre del 2020). *¿Qué es un plugin y para qué se usa*. Recuperado de:
++ IONOS. (9 de octubre del 2020). *¿Qué es un plugin y para qué se usa*. Recuperado de:
 <https://www.ionos.es/digitalguide/servidores/know-how/que-es-un-plugin/>
 
-Maven. (s.f). *Maven Central Repository*. Recuperado de:
++ Maven. (s.f). *Maven Central Repository*. Recuperado de:
 <https://maven.apache.org/repository/index.html>
 
-Hanoli, T. (23 de agosto del 2019). *3 pasos para crear un archetype Maven desde el CMD de Windows*. Recuperado de:
++ Hanoli, T. (23 de agosto del 2019). *3 pasos para crear un archetype Maven desde el CMD de Windows*. Recuperado de:
 <https://hanolisite.wordpress.com/2019/08/23/3-pasos-para-crear-un-archetype-maven-desde-el-cmd-de-windows/>
 
-MojoHaus. (19 de julio del 2022). *Exec Maven Plugin*. Recuperado de:
++ MojoHaus. (19 de julio del 2022). *Exec Maven Plugin*. Recuperado de:
 <https://www.mojohaus.org/exec-maven-plugin/usage.html>
 
-freeCodeCamp. (21 de octubre del 2022) *Explicación de Gitignore: Qué es Gitignore y cómo añadirlo a tu repositorio*. Recuperado de:
++ freeCodeCamp. (21 de octubre del 2022) *Explicación de Gitignore: Qué es Gitignore y cómo añadirlo a tu repositorio*. Recuperado de:
 <https://www.freecodecamp.org/espanol/news/gitignore-que-es-gitignore-y-como-anadirlo-a-tu-repositorio/#:~:text=gitignore%20es%20un%20archivo%20de,También%20puedes%20crear%20un%20archivo%20.>
